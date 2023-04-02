@@ -1,0 +1,97 @@
+config:
+  WOLF:
+    weight: 50
+    speed: 3
+    food: 8
+    count: 30
+    lifetime: 10
+  SNAKE:
+    weight: 2
+    speed: 1
+    food: 0.3
+    count: 123
+    lifetime: 15
+  FOX:
+    weight: 4
+    speed: 3
+    food: 1
+    count: 50
+    lifetime: 8
+  BEAR:
+    weight: 250
+    speed: 2
+    food: 38
+    count: 7
+    lifetime: 15
+  EAGLE:
+    weight: 6
+    speed: 4
+    food: 1
+    count: 166
+    lifetime: 5
+  HORSE:
+    weight: 300
+    speed: 3
+    food: 45
+    count: 23
+    lifetime: 5
+  DEER:
+    weight: 170
+    speed: 3
+    food: 26
+    count: 41
+    lifetime: 4
+  HARE:
+    weight: 3
+    speed: 3
+    food: 0.45
+    count: 750
+    lifetime: 7
+  HAMSTER:
+    weight: 0.03
+    speed: 1
+    food: 0.0075
+    count: 10000
+    lifetime: 3
+  GOAT:
+    weight: 65
+    speed: 1
+    food: 10
+    count: 107
+    lifetime: 5
+  SHEEP:
+    weight: 45
+    speed: 1
+    food: 7
+    count: 156
+    lifetime: 5
+  KANGAROO:
+    weight: 47
+    speed: 2
+    food: 7
+    count: 149
+    lifetime: 8
+  COW:
+    weight: 350
+    speed: 1
+    food: 53
+    count: 20
+    lifetime: 4
+  DUCK:
+    weight: 1
+    speed: 1
+    food: 0.15
+    count: 500
+    lifetime: 4
+  CATERPILLAR:
+    weight: 0.01
+    speed: 1
+    food: 0.0025
+    count: 10000
+    lifetime: 1
+  PLANT:
+    weight: 1
+    speed:
+    food:
+    count: 10000
+    lifetime:
